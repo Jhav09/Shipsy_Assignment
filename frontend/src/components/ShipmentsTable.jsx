@@ -98,7 +98,7 @@ const ShipmentsTable = ({
           {shipments.map(shipment => {
             const forecast = calculateDeliveryForecast(shipment);
             return (
-              <tr key={shipment.id}>
+              <tr key={shipment._id}>
                 <td>
                   <strong>{shipment.tracking_number}</strong>
                 </td>
