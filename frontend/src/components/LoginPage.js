@@ -150,9 +150,9 @@ const LoginPage = ({ onLogin, onRegister }) => {
           {isLoginMode && (
             <div className="demo-credentials">
               <p><strong>Demo Credentials:</strong></p>
-              <p>Username: <code>coordinator</code></p>
-              <p>Password: <code>shipment123</code></p>
-            </div>
+              <p>Username: <code>Manager1</code></p>
+              <p>Password: <code>manager1</code></p>
+            </div>  
           )}
         </div>
       </div>
