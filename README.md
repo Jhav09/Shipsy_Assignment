@@ -217,10 +217,6 @@ Visit `http://localhost:3001/health` to verify backend is running
 
 This project is licensed under the MIT License.
 
-## 👥 Authors
-
-- **Shipsy Assignment Team**
-
 ## 🆘 Support
 
 For support, please contact the development team or create an issue in the repository.
