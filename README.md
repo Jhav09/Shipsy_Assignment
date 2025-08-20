@@ -170,14 +170,11 @@ The application uses JWT (JSON Web Tokens) for authentication:
 
 ## 🚀 Deployment
 
-### Backend Deployment (Vercel)
-1. Install Vercel CLI: `npm i -g vercel`
-2. In the backend directory: `vercel`
-3. Configure environment variables in Vercel dashboard
+### Backend Deployment (AWS)
+backend- https://counseling-enters-cables-ross.trycloudflare.com/api/shipments
 
-### Frontend Deployment (Vercel)
-1. In the frontend directory: `vercel`
-2. Update API base URL to point to deployed backend
+### Frontend Deployment (AWS)
+https://dg-envelope-router-named.trycloudflare.com/
 
 ## 🧪 Testing
 
